@@ -5,7 +5,7 @@
 
 ## Данные для запуска проекта
 Для запуска проекта необходимо предварительно скачать архив с данными и распаковать его, должна получиться папка data с двумя файлами.
-[google drive zip]: https://drive.google.com/file/d/120IQpKrXaIiThQjXrXKY4KRIT4No13D_/view?usp=sharing
+[google drive zip](https://drive.google.com/file/d/120IQpKrXaIiThQjXrXKY4KRIT4No13D_/view?usp=sharing)
 
 ## Комментарии по визуализации
 Для всех визуализаций в проекте, в папке plotly есть соответвующие интерактивные диаграммы в формате html
